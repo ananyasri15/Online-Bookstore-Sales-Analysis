@@ -1,1 +1,1 @@
-# SQL-Project
+# Online Bookstore Sales Analysis
